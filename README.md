@@ -51,7 +51,7 @@ ecommerce-catalog/
 1. **Clonar el repositorio o crear la carpeta del proyecto:**
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/GabrielCarrilloF/ecommerce-catalog.git
    cd ecommerce-catalog
    ```
 
