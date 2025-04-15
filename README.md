@@ -66,7 +66,7 @@ ecommerce-catalog/
 
 4. **Ejecutar el servidor:**
 
-   - Modo desarrollo (si tienes nodemon instalado):
+   - Modo desarrollo :
      ```bash
      npm run dev
      ```
