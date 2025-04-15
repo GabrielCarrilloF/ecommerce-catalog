@@ -33,7 +33,7 @@ npm install
 
 ### Ejecución  
 ```bash
-npm run dev  # Modo desarrollo (con nodemon)
+npm run dev  # Modo desarrollo 
 ```
 
 ### Verificación  
