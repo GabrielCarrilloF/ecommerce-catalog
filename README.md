@@ -120,7 +120,6 @@ Este microservicio es la piedra angular del catálogo en el ecosistema E-Commerc
 - [Fake Store API](https://fakestoreapi.com)  
 
  
-
 **Mejoras clave respecto a tu versión original**:  
 1. **Enfoque visual**: Uso de emojis, badges y tablas para mejor legibilidad.  
 2. **Estructura clara**: Separación por secciones con Quick Start primero.  
